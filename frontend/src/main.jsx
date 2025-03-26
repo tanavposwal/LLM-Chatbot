@@ -9,7 +9,7 @@ const App = () => {
   const [chat, setChat] = useState([
     {
       role: { system: null },
-      content: "I'm a sovereign AI agent living on the Internet Computer. Ask me anything."
+      content: "I am a expert mental health advisior that analysis to your mental health and give recomendations."
     }
   ]);
   const [inputValue, setInputValue] = useState('');
